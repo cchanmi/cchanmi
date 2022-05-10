@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, I'm ChanmiHwang
+### Hello, I'm ChanmiHwang ✨
 
 ### 🌱 I’m currently learning ...
 <div style="display: flex; align-items: flex-start;">
